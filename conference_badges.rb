@@ -5,12 +5,12 @@ def badge_maker(name)
   puts "Hello, my name is #{name}"
 end
 
-def assign_rooms(namelist)
+def batch_badge_creator(namelist)
   namelist.collect do |name|
     badge_maker(name)
   end
 end
 
-def printer
+def assign_rooms
   
 end
