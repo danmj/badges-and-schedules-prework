@@ -6,7 +6,7 @@ def badge_maker(name)
 end
 
 def assign_rooms(namelist)
-  
+  namelist.collect
 end
 
 def printer
