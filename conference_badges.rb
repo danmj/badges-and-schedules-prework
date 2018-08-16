@@ -7,3 +7,8 @@ end
 
 def assign_rooms(namelist)
   
+end
+
+def printer
+  
+end
