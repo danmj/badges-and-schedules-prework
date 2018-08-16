@@ -6,6 +6,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(namelist)
+  namelist = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   namelist.collect do |name|
     badge_maker(name)
   end
