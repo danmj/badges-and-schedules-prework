@@ -19,11 +19,3 @@ def assign_rooms
   end
 end
 
-def printer(namelist)
-  batch_badge_creator(namelist).each do |value|
-    puts value
-  end
-  assign_rooms(namelist).each do |value|
-    puts value
-  end
-end
