@@ -1,3 +1,9 @@
 # Write your code here.
+namelist = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
 def badge_maker(name)
-  namelist = []
+  
+end
+
+def assign_rooms(namelist)
+  
