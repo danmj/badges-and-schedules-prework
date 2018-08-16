@@ -19,5 +19,5 @@ def assign_rooms
   end
 end
 
-def printer
+def printer(namelist)
   
