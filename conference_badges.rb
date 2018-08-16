@@ -7,7 +7,8 @@ end
 
 def assign_rooms(namelist)
   namelist.collect do |name|
-    
+    badge_maker(name)
+  end
 end
 
 def printer
